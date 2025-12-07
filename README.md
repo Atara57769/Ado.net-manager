@@ -1,5 +1,6 @@
 # Manager
 🔍 Features:
+
 📁 View all categories from the database
 
 🛒 View all products
